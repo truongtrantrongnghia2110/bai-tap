@@ -1,2 +1,2 @@
 # bai tap
-[bai1](jdoodle.com/a/5Axb)
+[bai1](https://www.jdoodle.com/c-online-compiler/)
